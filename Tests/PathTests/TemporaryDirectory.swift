@@ -1,4 +1,4 @@
-@testable import Path
+@testable import SwiftPath
 import Foundation
 
 class TemporaryDirectory {

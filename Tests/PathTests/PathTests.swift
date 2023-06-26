@@ -1,4 +1,4 @@
-@testable import Path
+@testable import SwiftPath
 import func XCTest.XCTAssertEqual
 import Foundation
 import XCTest

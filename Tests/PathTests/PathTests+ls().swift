@@ -1,5 +1,5 @@
 import XCTest
-import Path
+import SwiftPath
 
 extension PathTests {
     func testFindMaxDepth1() throws {
